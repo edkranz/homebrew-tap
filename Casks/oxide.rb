@@ -1,6 +1,6 @@
 cask "oxide" do
-  version "0.1.0"
-  sha256 "147b1b4a3e7c6c7e965a9507c11e7403958fb9f1a49a133e9729ac526b3a23aa"
+  version "0.2.0"
+  sha256 "fdfa40c22158f400a97850743dbc6d3302d1504dee36eeebb5ef2dd2d9aa20cf"
 
   url "https://github.com/edkranz/oxide/releases/download/v#{version}/Oxide-macos-universal.zip"
   name "oxide"
